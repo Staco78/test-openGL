@@ -1,0 +1,10 @@
+.vs/
+Bin/*.exe
+Bin/*.zip
+Bin/*.dll
+Bin/*.ilk
+Bin/*.pdb
+Bin/*.jpg
+out/
+ThirdParty/
+Lib/
