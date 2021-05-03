@@ -13,7 +13,7 @@ public:
 
 	void update();
 	glm::vec3 getPosition();
-
+	glm::vec3 getFront();
 private:
 	Window* mp_window = nullptr;
 

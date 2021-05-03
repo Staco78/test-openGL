@@ -14,6 +14,10 @@ glm::vec3 Camera2::getPosition() {
     return pos;
 }
 
+glm::vec3 Camera2::getFront() {
+    return front;
+}
+
 void Camera2::update() {
 	
     float currentFrame = glfwGetTime();
