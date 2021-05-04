@@ -7,11 +7,9 @@
 #include "Window.h"
 #include "Shader.h"
 #include "Camera2.h"
+#include "Model.h"
 
-#include "stb_image.h"
-
-//#define STB_IMAGE_IMPL EMENTATION
-//#include "stb_image.h"
+#include <vector>
 
 #ifdef _WIN32
 #include <Windows.h>
